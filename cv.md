@@ -7,7 +7,7 @@ Hello World!
 3. One goal, is to return to IT, after 10 years of sleeping.
 4. [Google Search](https://www.google.com/)
 5. Code in C++
-'''
+```
 #using namespace std;
 
 int main () {
@@ -15,4 +15,4 @@ int main () {
     
     return 0;
 }
-'''
+```
