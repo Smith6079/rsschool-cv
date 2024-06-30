@@ -20,7 +20,7 @@
     - Java
     - HTML, CSS
     - [Google Search](https://www.google.com/)
-5. Code in C++
+5. Code in C# from [codewars](https://www.codewars.com/)
     ```
     public class CustomMath {
         public static int multiply(int a, int b) {
