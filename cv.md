@@ -8,11 +8,12 @@ Hello World!
 4. [Google Search](https://www.google.com/)
 5. Code in C++
 ```
-#using namespace std;
+    #using namespace std;
 
-int main () {
-    cout << "Hello World";
-    
-    return 0;
-}
+    int main () {
+        cout << "Hello World";
+
+        return 0;
+    }
 ```
+6. I worked for a couple of months in C++. I worked for a couple of months on EPAM, on .Net. (LinkedIn)[https://www.linkedin.com/in/alexander-romanyuk-71663b84/]
