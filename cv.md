@@ -1,8 +1,8 @@
 [def1]: https://www.coursera.org/account/accomplishments/verify/TYAQ83BBQAWT
 [def2]: https://www.linkedin.com/in/alexander-romanyuk-71663b84/
 
-This is cv.md file from my computer!
 Hello World!
+
 ![TEXT HERE](photo_Aliaksandr_Ramaniuk_in_prison.png)
 1. **Aliaksandr Ramaniuk**
 2. contact information:
@@ -23,7 +23,7 @@ Hello World!
 ```
 6. **Work experience**
 - С++: I worked for a couple of months in C++.
-- C# (.Net): I worked for a couple of months on EPAM, on .Net.
+- C# (.Net): I worked for a couple of months on EPAM, on .Net. An internal time tracking project. More precisely, automating the transfer of time spent on the customer's website to the EPAM website. In order not to waste time, add work time to one site and then to another.
 - [RS School](https://github.com/Smith6079/rsschool-cv)
 - [LinkedIn][def2]
 7. Education:
