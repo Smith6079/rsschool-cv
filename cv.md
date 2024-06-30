@@ -12,14 +12,14 @@
     * discord: smith6079
 3. One goal, is to return to IT, after 10 years of sleeping.
 4. *S***k***i***l***l***s**
-- assembler
-- С++
-- C# (.Net)
-- Java
-- HTML, CSS
-- [Google Search](https://www.google.com/)
+    - assembler
+    - С++
+    - C# (.Net)
+    - Java
+    - HTML, CSS
+    - [Google Search](https://www.google.com/)
 5. Code in C++
-```
+    ```
     #using namespace std;
 
     int main () {
@@ -27,7 +27,7 @@
 
         return 0;
     }
-```
+    ```
 6. **Work experience**
 - С++: I worked for a couple of months in C++.
 - C# (.Net): I worked for a couple of months on EPAM, on .Net. An internal time tracking project. More precisely, automating the transfer of time spent on the customer's website to the EPAM website. In order not to waste time, add work time to one site and then to another.
