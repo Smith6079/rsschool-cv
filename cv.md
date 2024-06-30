@@ -5,6 +5,7 @@ Hello World!
 2. contact information:
     * *email: fpm.romanyuk@gmail.com*
     * *tel. +48 572-427-107*
+    * discord: smith6079
 3. One goal, is to return to IT, after 10 years of sleeping.
 4. [Google Search](https://www.google.com/)
 5. Code in C++
@@ -26,7 +27,7 @@ Hello World!
 [def1]: https://www.coursera.org/account/accomplishments/verify/TYAQ83BBQAWT
 [def2]: https://www.linkedin.com/in/alexander-romanyuk-71663b84/
 8. English... let's get started:
-- I took courses from StreamLine on B1.
-- I study on the website cambly.com conversational practice with native speakers online.
-- I've been doing it for almost a year, every day on Duolingo.
-- I listen to podcasts.
+- Streamline: Course A2 and B1.
+- CAMBLY: Conversation practice with native speakers.
+- Duolingo: Practice for 5 minutes every day.
+- I'm listening podcasts: [Lex Fridman](https://www.youtube.com/@lexfridman), [Andrew Huberman](https://www.youtube.com/@hubermanlab), [Sam Harris](https://www.youtube.com/@samharrisorg), etc.
