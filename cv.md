@@ -16,4 +16,8 @@ Hello World!
         return 0;
     }
 ```
-6. I worked for a couple of months in C++. I worked for a couple of months on EPAM, on .Net. (LinkedIn)[https://www.linkedin.com/in/alexander-romanyuk-71663b84/]
+6. I worked for a couple of months in C++. I worked for a couple of months on EPAM, on .Net. [LinkedIn](https://www.linkedin.com/in/alexander-romanyuk-71663b84/)
+7. Education:
+    - Belarusian State University, Faculty of Applied Mathematics and Informatics
+    - EPAM .Net courses
+    - [coursera Google Career Certificates Foundations of Digital Marketing and E-commerce / Course 1 of 7](https://www.coursera.org/account/accomplishments/verify/TYAQ83BBQAWT)
