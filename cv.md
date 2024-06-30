@@ -6,11 +6,13 @@ Hello World!
     * *tel. +48 572-427-107*
 3. One goal, is to return to IT, after 10 years of sleeping.
 4. [Google Search](https://www.google.com/)
-5. 
->#using namespace std;
-> 
->int main () {
->   cout << "Hello World";
->
->   return 0;
->}
+5. Code in C++
+'''
+#using namespace std;
+
+int main () {
+    cout << "Hello World";
+    
+    return 0;
+}
+'''
