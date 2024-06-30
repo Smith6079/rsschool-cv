@@ -20,12 +20,10 @@
     - [Google Search](https://www.google.com/)
 5. Code in C++
     ```
-    #using namespace std;
-
-    int main () {
-        cout << "Hello World";
-
-        return 0;
+    public class CustomMath {
+        public static int multiply(int a, int b) {
+            return a * b;
+        }
     }
     ```
 6. **Work experience**
