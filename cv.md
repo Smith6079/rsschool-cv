@@ -32,7 +32,7 @@
     - С++: I worked for a couple of months in C++.
     - C# (.Net): I worked for a couple of months on EPAM, on .Net. An internal time tracking project. More precisely, automating the transfer of time spent on the customer's website to the EPAM website. In order not to waste time, add work time to one site and then to another.
     - [RS School](https://github.com/Smith6079/rsschool-cv)
-    - [LinkedIn][[def_linkedin_link]
+    - [LinkedIn][def_linkedin_link]
 7. Education:
     - Belarusian State University, Faculty of Applied Mathematics and Informatics
     - EPAM .Net courses
