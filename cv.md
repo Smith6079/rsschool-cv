@@ -6,7 +6,7 @@
 [def_youtube_link_of_Sam_Harris]: https://www.youtube.com/@samharrisorg
 # `<header> Hello World! </header>`
 
-![TEXT HERE](photo_Aliaksandr_Ramaniuk_in_prison.png)
+![Here must be photo of Aliaksandr Ramaniuk](./assets/img/photo_Aliaksandr_Ramaniuk_in_prison.png)
 1. **Aliaksandr Ramaniuk**
 2. contact information:
     * *email: fpm.romanyuk@gmail.com*
