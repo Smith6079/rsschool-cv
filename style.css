@@ -15,7 +15,7 @@
 
 body {
     font-family: "Comic Sans MS", "Comic Sans", sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: normal;
     line-height: 1.5;
     color: black;
@@ -23,7 +23,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
-    margin: 0; padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 html {
@@ -67,4 +68,19 @@ html {
 
 .section {
     width: 50%;
+}
+
+.img-photo {
+    width: 200px;
+}
+
+.img-logo-rs-school {
+    width: 100px;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 3px solid red;
 }

@@ -34,7 +34,7 @@
 
         <div class="conteiner">
             <section class="section-profile" id="profile">
-                <img src="./assets/img/photo_Aliaksandr_Ramaniuk_in_prison.png" alt="Here photo Aliaksandr Ramaniuk">
+                <img class="img-photo" src="./assets/img/photo_Aliaksandr_Ramaniuk_in_prison.png" alt="Here photo Aliaksandr Ramaniuk">
                 <h1>Aliaksandr Ramaniuk</h1>
             </section>
 
@@ -66,11 +66,13 @@
             <section class="section-code" id="code">
                 <h2><a href="https://www.codewars.com/">Code in C# from:</a></h2>
                 <code>
-                    public class CustomMath {
-                        public static int multiply(int a, int b) {
-                            return a * b;
-                        }
-                    }
+                    <pre>
+    public class CustomMath {
+        public static int multiply(int a, int b) {
+            return a * b;
+        }
+    }
+                    </pre>
                 </code>
             </section>
 
@@ -106,13 +108,20 @@
 
     </main>
 
-    <footer class="footer">
+    <footer class="footer footer-conteiner">
         <div class="conteiner">
-            <a href="https://github.com/Smith6079/rsschool-cv">Aliaksandr Ramaniuk GitHub</a>
-            <div>year of project - 2024 &copy;</div>
-            <img src="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/rs-school-logo.svg" alt="logo RS School">
-            <br>
-            <a href="https://rs.school/courses/javascript">JavaScript / Front-end Course Mentoring Program EN</a>
+            <section class="footer-github">
+                <a href="https://github.com/Smith6079/rsschool-cv">Aliaksandr Ramaniuk GitHub</a>
+            </section>
+            <section class="footer-year">
+                <div>year of project - 2024 &copy;</div>
+            </section>
+            <section class="footer-logo">
+                <img class="img-logo-rs-school" src="./assets/img/rs-school-logo.svg" alt="logo RS School">
+            </section>
+            <section class="footer-link">
+                <a href="https://rs.school/courses/javascript">JavaScript / Front-end Course Mentoring Program EN</a>
+            </section>
         </div>
     </footer>
 
