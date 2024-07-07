@@ -41,4 +41,4 @@
     - Streamline: Course A2 and B1.
     - CAMBLY: Conversation practice with native speakers.
     - Duolingo: Practice for 5 minutes every day.
-    - I'm listening podcasts: [Lex Fridman](def_youtube_link_of_Lex_Fridman), [Andrew Huberman](def_youtube_link_of_Andrew_Huberman), [Sam Harris](https://www.youtube.com/@samharrisorg), etc.
+    - I'm listening podcasts: [Lex Fridman][def_youtube_link_of_Lex_Fridman], [Andrew Huberman][def_youtube_link_of_Andrew_Huberman], [Sam Harris][def_youtube_link_of_Sam_Harris], etc.
