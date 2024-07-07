@@ -1,6 +1,8 @@
 # rsschool-cv
-task cv#1: hello world
+task CV#2. HTML, CSS & Git Basics
 
-[link to CV Aliaksandr Ramaniuk](https://smith6079.github.io/rsschool-cv/cv)
+[def_link_rsschool_cv]: https://smith6079.github.io/rsschool-cv/
 
-[https://smith6079.github.io/rsschool-cv/cv](https://smith6079.github.io/rsschool-cv/cv)
+[link to rsschool-cv Aliaksandr Ramaniuk][def_link_rsschool_cv]
+
+[https://smith6079.github.io/rsschool-cv/][def_link_rsschool_cv]
